@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="MinneapolisNeighborhoodsReprojection" id="MinneapolisNeighborhoodsReprojection">
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="INT_REFNO" type="int"></SimpleField>
+	<SimpleField name="PREFIX" type="string"></SimpleField>
+	<SimpleField name="UDI" type="int"></SimpleField>
+	<SimpleField name="SYMBOL_NAM" type="string"></SimpleField>
+	<SimpleField name="BDNAME" type="string"></SimpleField>
+	<SimpleField name="BDNUM" type="int"></SimpleField>
+	<SimpleField name="TEXT_NBR" type="int"></SimpleField>
+	<SimpleField name="SHAPE_AREA" type="int"></SimpleField>
+	<SimpleField name="SHAPE_LEN" type="int"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="precision" type="string"></SimpleField>
+</Schema>
+<Folder><name>MinneapolisNeighborhoodsReprojection</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23152</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Phillips West</SimpleData>
+		<SimpleData name="BDNUM">90</SimpleData>
+		<SimpleData name="TEXT_NBR">90</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23187</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Downtown West</SimpleData>
+		<SimpleData name="BDNUM">87</SimpleData>
+		<SimpleData name="TEXT_NBR">87</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23188</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Downtown East</SimpleData>
+		<SimpleData name="BDNUM">88</SimpleData>
+		<SimpleData name="TEXT_NBR">88</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="INT_REFNO">0</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23189</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Ventura Village</SimpleData>
+		<SimpleData name="BDNUM">89</SimpleData>
+		<SimpleData name="TEXT_NBR">89</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23129</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Sumner - Glenwood</SimpleData>
+		<SimpleData name="BDNUM">29</SimpleData>
+		<SimpleData name="TEXT_NBR">29</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23101</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Shingle Creek</SimpleData>
+		<SimpleData name="BDNUM">1</SimpleData>
+		<SimpleData name="TEXT_NBR">1</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23102</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Lind - Bohanon</SimpleData>
+		<SimpleData name="BDNUM">2</SimpleData>
+		<SimpleData name="TEXT_NBR">2</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23104</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Webber - Camden</SimpleData>
+		<SimpleData name="BDNUM">4</SimpleData>
+		<SimpleData name="TEXT_NBR">4</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23114</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Bottineau</SimpleData>
+		<SimpleData name="BDNUM">14</SimpleData>
+		<SimpleData name="TEXT_NBR">14</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23103</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Victory</SimpleData>
+		<SimpleData name="BDNUM">3</SimpleData>
+		<SimpleData name="TEXT_NBR">3</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="INT_REFNO">0</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23108</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Humboldt Industrial Area</SimpleData>
+		<SimpleData name="BDNUM">8</SimpleData>
+		<SimpleData name="TEXT_NBR">8</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23163</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Howe</SimpleData>
+		<SimpleData name="BDNUM">63</SimpleData>
+		<SimpleData name="TEXT_NBR">63</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23164</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Hiawatha</SimpleData>
+		<SimpleData name="BDNUM">64</SimpleData>
+		<SimpleData name="TEXT_NBR">64</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23168</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Windom</SimpleData>
+		<SimpleData name="BDNUM">68</SimpleData>
+		<SimpleData name="TEXT_NBR">68</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23176</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Ericsson</SimpleData>
+		<SimpleData name="BDNUM">76</SimpleData>
+		<SimpleData name="TEXT_NBR">76</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23177</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Field</SimpleData>
+		<SimpleData name="BDNUM">77</SimpleData>
+		<SimpleData name="TEXT_NBR">77</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23178</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Page</SimpleData>
+		<SimpleData name="BDNUM">78</SimpleData>
+		<SimpleData name="TEXT_NBR">78</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23137</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Como</SimpleData>
+		<SimpleData name="BDNUM">37</SimpleData>
+		<SimpleData name="TEXT_NBR">37</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23138</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Cedar Riverside</SimpleData>
+		<SimpleData name="BDNUM">38</SimpleData>
+		<SimpleData name="TEXT_NBR">38</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23139</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Prospect Park - East River Road</SimpleData>
+		<SimpleData name="BDNUM">39</SimpleData>
+		<SimpleData name="TEXT_NBR">39</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23140</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">University of Minnesota</SimpleData>
+		<SimpleData name="BDNUM">40</SimpleData>
+		<SimpleData name="TEXT_NBR">40</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23124</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Jordan</SimpleData>
+		<SimpleData name="BDNUM">24</SimpleData>
+		<SimpleData name="TEXT_NBR">24</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23125</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Hawthorne</SimpleData>
+		<SimpleData name="BDNUM">25</SimpleData>
+		<SimpleData name="TEXT_NBR">25</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">24</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23126</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Willard - Hay</SimpleData>
+		<SimpleData name="BDNUM">26</SimpleData>
+		<SimpleData name="TEXT_NBR">26</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23127</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Near - North</SimpleData>
+		<SimpleData name="BDNUM">27</SimpleData>
+		<SimpleData name="TEXT_NBR">27</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">26</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23128</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Harrison</SimpleData>
+		<SimpleData name="BDNUM">28</SimpleData>
+		<SimpleData name="TEXT_NBR">28</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23131</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Loring Park</SimpleData>
+		<SimpleData name="BDNUM">31</SimpleData>
+		<SimpleData name="TEXT_NBR">31</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">28</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23132</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Steven's Square - Loring Heights</SimpleData>
+		<SimpleData name="BDNUM">32</SimpleData>
+		<SimpleData name="TEXT_NBR">32</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23181</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Minnehaha</SimpleData>
+		<SimpleData name="BDNUM">81</SimpleData>
+		<SimpleData name="TEXT_NBR">81</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">30</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23182</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Diamond Lake</SimpleData>
+		<SimpleData name="BDNUM">82</SimpleData>
+		<SimpleData name="TEXT_NBR">82</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23162</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Cooper</SimpleData>
+		<SimpleData name="BDNUM">62</SimpleData>
+		<SimpleData name="TEXT_NBR">62</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">32</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23165</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Tangletown</SimpleData>
+		<SimpleData name="BDNUM">65</SimpleData>
+		<SimpleData name="TEXT_NBR">65</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">33</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23186</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">North Loop</SimpleData>
+		<SimpleData name="BDNUM">86</SimpleData>
+		<SimpleData name="TEXT_NBR">86</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">34</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23179</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Hale</SimpleData>
+		<SimpleData name="BDNUM">79</SimpleData>
+		<SimpleData name="TEXT_NBR">79</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">35</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23180</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Keewaydin</SimpleData>
+		<SimpleData name="BDNUM">80</SimpleData>
+		<SimpleData name="TEXT_NBR">80</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">36</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23172</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Fulton</SimpleData>
+		<SimpleData name="BDNUM">72</SimpleData>
+		<SimpleData name="TEXT_NBR">72</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">37</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23173</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Lynnhurst</SimpleData>
+		<SimpleData name="BDNUM">73</SimpleData>
+		<SimpleData name="TEXT_NBR">73</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">38</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23158</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Bancroft</SimpleData>
+		<SimpleData name="BDNUM">58</SimpleData>
+		<SimpleData name="TEXT_NBR">58</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">39</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23159</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Standish</SimpleData>
+		<SimpleData name="BDNUM">59</SimpleData>
+		<SimpleData name="TEXT_NBR">59</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">40</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23160</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Seward</SimpleData>
+		<SimpleData name="BDNUM">60</SimpleData>
+		<SimpleData name="TEXT_NBR">60</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">41</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23161</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Longfellow</SimpleData>
+		<SimpleData name="BDNUM">61</SimpleData>
+		<SimpleData name="TEXT_NBR">61</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">42</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23145</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Lowry Hill East</SimpleData>
+		<SimpleData name="BDNUM">45</SimpleData>
+		<SimpleData name="TEXT_NBR">45</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">43</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23146</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">ECCO</SimpleData>
+		<SimpleData name="BDNUM">46</SimpleData>
+		<SimpleData name="TEXT_NBR">46</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">44</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23147</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">CARAG</SimpleData>
+		<SimpleData name="BDNUM">47</SimpleData>
+		<SimpleData name="TEXT_NBR">47</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">45</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23152</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">East Phillips</SimpleData>
+		<SimpleData name="BDNUM">92</SimpleData>
+		<SimpleData name="TEXT_NBR">92</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">46</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23105</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Cleveland</SimpleData>
+		<SimpleData name="BDNUM">5</SimpleData>
+		<SimpleData name="TEXT_NBR">5</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">47</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23183</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Wenonah</SimpleData>
+		<SimpleData name="BDNUM">83</SimpleData>
+		<SimpleData name="TEXT_NBR">83</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">48</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23115</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Holland</SimpleData>
+		<SimpleData name="BDNUM">15</SimpleData>
+		<SimpleData name="TEXT_NBR">15</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">49</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23116</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Audubon Park</SimpleData>
+		<SimpleData name="BDNUM">16</SimpleData>
+		<SimpleData name="TEXT_NBR">16</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">50</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23174</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Regina</SimpleData>
+		<SimpleData name="BDNUM">74</SimpleData>
+		<SimpleData name="TEXT_NBR">74</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">51</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23175</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Northrop</SimpleData>
+		<SimpleData name="BDNUM">75</SimpleData>
+		<SimpleData name="TEXT_NBR">75</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">52</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23117</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Sheridan</SimpleData>
+		<SimpleData name="BDNUM">17</SimpleData>
+		<SimpleData name="TEXT_NBR">17</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">53</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138200</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23118</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Logan Park</SimpleData>
+		<SimpleData name="BDNUM">18</SimpleData>
+		<SimpleData name="TEXT_NBR">18</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">54</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23119</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Windom Park</SimpleData>
+		<SimpleData name="BDNUM">19</SimpleData>
+		<SimpleData name="TEXT_NBR">19</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">55</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23169</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Linden Hills</SimpleData>
+		<SimpleData name="BDNUM">69</SimpleData>
+		<SimpleData name="TEXT_NBR">69</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">56</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23170</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">East Harriet</SimpleData>
+		<SimpleData name="BDNUM">70</SimpleData>
+		<SimpleData name="TEXT_NBR">70</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">57</SimpleData>
+		<SimpleData name="INT_REFNO">-2144132900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23171</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">King Field</SimpleData>
+		<SimpleData name="BDNUM">71</SimpleData>
+		<SimpleData name="TEXT_NBR">71</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">58</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23184</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Morris Park</SimpleData>
+		<SimpleData name="BDNUM">84</SimpleData>
+		<SimpleData name="TEXT_NBR">84</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">59</SimpleData>
+		<SimpleData name="INT_REFNO">-2144131500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23185</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Mid - City Industrial</SimpleData>
+		<SimpleData name="BDNUM">85</SimpleData>
+		<SimpleData name="TEXT_NBR">85</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">60</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23152</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Midtown Phillips</SimpleData>
+		<SimpleData name="BDNUM">91</SimpleData>
+		<SimpleData name="TEXT_NBR">91</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">61</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23149</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">West Calhoun</SimpleData>
+		<SimpleData name="BDNUM">49</SimpleData>
+		<SimpleData name="TEXT_NBR">49</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">62</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23150</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Bryn - Mawr</SimpleData>
+		<SimpleData name="BDNUM">50</SimpleData>
+		<SimpleData name="TEXT_NBR">50</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">63</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138000</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23120</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Northeast Park</SimpleData>
+		<SimpleData name="BDNUM">20</SimpleData>
+		<SimpleData name="TEXT_NBR">20</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">64</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23121</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">St. Anthony West</SimpleData>
+		<SimpleData name="BDNUM">21</SimpleData>
+		<SimpleData name="TEXT_NBR">21</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">65</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23122</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">St. Anthony East</SimpleData>
+		<SimpleData name="BDNUM">22</SimpleData>
+		<SimpleData name="TEXT_NBR">22</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">66</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23154</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Central</SimpleData>
+		<SimpleData name="BDNUM">54</SimpleData>
+		<SimpleData name="TEXT_NBR">54</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">67</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23155</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Powderhorn Park</SimpleData>
+		<SimpleData name="BDNUM">55</SimpleData>
+		<SimpleData name="TEXT_NBR">55</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">68</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23156</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Corcoran</SimpleData>
+		<SimpleData name="BDNUM">56</SimpleData>
+		<SimpleData name="TEXT_NBR">56</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">69</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23157</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Bryant</SimpleData>
+		<SimpleData name="BDNUM">57</SimpleData>
+		<SimpleData name="TEXT_NBR">57</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">70</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23167</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Kenny</SimpleData>
+		<SimpleData name="BDNUM">67</SimpleData>
+		<SimpleData name="TEXT_NBR">67</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">71</SimpleData>
+		<SimpleData name="INT_REFNO">-2144133400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23166</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Armatage</SimpleData>
+		<SimpleData name="BDNUM">66</SimpleData>
+		<SimpleData name="TEXT_NBR">66</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">72</SimpleData>
+		<SimpleData name="INT_REFNO">-2144137700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23123</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Beltrami</SimpleData>
+		<SimpleData name="BDNUM">23</SimpleData>
+		<SimpleData name="TEXT_NBR">23</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">73</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23141</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Cedar - Isles - Dean</SimpleData>
+		<SimpleData name="BDNUM">41</SimpleData>
+		<SimpleData name="TEXT_NBR">41</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">74</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23142</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Kenwood</SimpleData>
+		<SimpleData name="BDNUM">42</SimpleData>
+		<SimpleData name="TEXT_NBR">42</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">75</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23143</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Lowry Hill</SimpleData>
+		<SimpleData name="BDNUM">43</SimpleData>
+		<SimpleData name="TEXT_NBR">43</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">76</SimpleData>
+		<SimpleData name="INT_REFNO">-2144135600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23144</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">East Isles</SimpleData>
+		<SimpleData name="BDNUM">44</SimpleData>
+		<SimpleData name="TEXT_NBR">44</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">77</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23133</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Elliot Park</SimpleData>
+		<SimpleData name="BDNUM">33</SimpleData>
+		<SimpleData name="TEXT_NBR">33</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">78</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136600</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23134</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Nicollet Island - East Bank</SimpleData>
+		<SimpleData name="BDNUM">34</SimpleData>
+		<SimpleData name="TEXT_NBR">34</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">79</SimpleData>
+		<SimpleData name="INT_REFNO">-2144136500</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23135</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Marcy Holmes</SimpleData>
+		<SimpleData name="BDNUM">35</SimpleData>
+		<SimpleData name="TEXT_NBR">35</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">80</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139400</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23106</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Folwell</SimpleData>
+		<SimpleData name="BDNUM">6</SimpleData>
+		<SimpleData name="TEXT_NBR">6</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">81</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139300</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23107</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">McKinley</SimpleData>
+		<SimpleData name="BDNUM">7</SimpleData>
+		<SimpleData name="TEXT_NBR">7</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">82</SimpleData>
+		<SimpleData name="INT_REFNO">-2144139100</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23109</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Camden Industrial</SimpleData>
+		<SimpleData name="BDNUM">9</SimpleData>
+		<SimpleData name="TEXT_NBR">9</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">83</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23111</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Columbia Park</SimpleData>
+		<SimpleData name="BDNUM">11</SimpleData>
+		<SimpleData name="TEXT_NBR">11</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">84</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138800</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23112</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Waite Park</SimpleData>
+		<SimpleData name="BDNUM">12</SimpleData>
+		<SimpleData name="TEXT_NBR">12</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">85</SimpleData>
+		<SimpleData name="INT_REFNO">-2144138700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23113</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Marshall Terrace</SimpleData>
+		<SimpleData name="BDNUM">13</SimpleData>
+		<SimpleData name="TEXT_NBR">13</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">86</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134900</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23151</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Whittier</SimpleData>
+		<SimpleData name="BDNUM">51</SimpleData>
+		<SimpleData name="TEXT_NBR">51</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MinneapolisNeighborhoodsReprojection">
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">-100.445882</SimpleData>
+		<SimpleData name="FID">87</SimpleData>
+		<SimpleData name="INT_REFNO">-2144134700</SimpleData>
+		<SimpleData name="PREFIX">REFNO</SimpleData>
+		<SimpleData name="UDI">23153</SimpleData>
+		<SimpleData name="SYMBOL_NAM">WARDAREA</SimpleData>
+		<SimpleData name="BDNAME">Lyndale</SimpleData>
+		<SimpleData name="BDNUM">53</SimpleData>
+		<SimpleData name="TEXT_NBR">53</SimpleData>
+		<SimpleData name="SHAPE_AREA">0</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.445882,39.78373</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
